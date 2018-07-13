@@ -1,0 +1,18 @@
+langcode: es
+status: true
+dependencies:
+  config:
+    - eck.eck_type.entidad.bundle
+    - field.storage.entidad.field_texto
+id: entidad.bundle.field_texto
+field_name: field_texto
+entity_type: entidad
+bundle: bundle
+label: texto
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

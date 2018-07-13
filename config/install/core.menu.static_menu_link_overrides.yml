@@ -1,0 +1,8 @@
+definitions:
+  filter__tips_all:
+    enabled: false
+    menu_name: tools
+    parent: ''
+    expanded: false
+    weight: 0
+langcode: es

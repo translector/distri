@@ -1,0 +1,9 @@
+langcode: es
+status: true
+dependencies: {  }
+id: anonymous
+label: 'Usuario anónimo'
+weight: 0
+is_admin: false
+permissions:
+  - 'access content'

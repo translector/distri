@@ -1,0 +1,10 @@
+country:
+  default: CL
+first_day: 0
+timezone:
+  default: America/Santiago
+  user:
+    configurable: true
+    warn: false
+    default: 0
+langcode: es

@@ -1,0 +1,9 @@
+langcode: es
+status: true
+dependencies: {  }
+id: entidad
+label: entidad
+created: true
+changed: true
+uid: true
+title: true
